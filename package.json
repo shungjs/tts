@@ -1,0 +1,14 @@
+{
+  "name": "tts-bot",
+  "version": "1.0.0",
+  "description": "TTS bot with volume control",
+  "main": "tts-bot.js",
+  "scripts": {
+    "start": "node tts-bot.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5",
+    "node-fetch": "^2.6.7",
+    "say": "^0.16.0"
+  }
+}
